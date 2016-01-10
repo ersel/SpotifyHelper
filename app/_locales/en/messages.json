@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Spotify Helper",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Triggers spotify app to open when a spotify URLs are opened.",
+    "description": "The description of the application"
+  }
+}
